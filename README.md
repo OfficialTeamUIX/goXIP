@@ -1,5 +1,6 @@
 # goXIP
 A modern re-implementation of XIP management tools for the original Xbox.
+Currently in beta. Extracted and Created file may not work as intended. Let us know on Discord! https://discord.gg/VcdSfajQGK
 # To-Do
 * Fix mesh extraction. This is above Milenko's pay grade. Something is off.
 * Add archive creation.
